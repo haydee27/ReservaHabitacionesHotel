@@ -16,7 +16,7 @@ namespace ReservacionesHoteles
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GestionDeReservas());
+            Application.Run(new FrmIniciar());
         }
     }
 }
